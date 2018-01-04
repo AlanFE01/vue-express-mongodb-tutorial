@@ -2,9 +2,12 @@
 
 > A Vue.js project
 
+需要安装mongodb
 ## Build Setup
 
 ``` bash
+node app.js
+
 # install dependencies
 npm install
 
